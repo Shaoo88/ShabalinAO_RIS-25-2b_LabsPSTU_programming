@@ -11,4 +11,20 @@
     2. - [ ] - hard task 
 
 ### third
-![img]("C:\Users\Shao\Downloads\photo_2025-09-05_23-44-51.jpg" "Мальчики")
+![img](/Users\Shao\pics\photo_2025-09-05_23-44-51.jpg)
+
+```
+#include<bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+
+ll a, b;
+
+signed main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cin >> a >> b;
+    ll c = a + b;
+    cout << c << '\n';
+}
