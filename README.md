@@ -11,7 +11,7 @@
     2. - [ ] - hard task 
 
 ### third
-![img](/Users\Shao\pics\photo_2025-09-05_23-44-51.jpg)
+![img](photo_2025-09-05_23-44-51.jpg)
 
 ```
 #include<bits/stdc++.h>
